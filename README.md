@@ -10,7 +10,7 @@
 
 <p>This repository contains the source code for the Passenger Counter App. It's a simple web application designed to count the number of passengers boarding and exiting a vehicle, such as a bus or train. The app helps keep track of passenger counts for logistical and analytical purposes.</p>
 
-<img src="screenshot.png" alt="App Screenshot" />
+![Screenshot 2023-09-23 134151](https://github.com/Haiderghadi/passenger-counter-app/assets/130603999/ef73c242-1cfc-470d-9fba-cecab698143a)
 
 <h2>Features</h2>
 
@@ -22,7 +22,7 @@
 
 <h2>Demo</h2>
 
-<p></p>
+<p>https://haiderghadi.github.io/passenger-counter-app/</p>
 
 <h2>Contact</h2>
 
